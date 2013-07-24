@@ -2,6 +2,10 @@
 
 emweb-wt is a module for emweb which adds support for Web Templates.
 
+## Dependencies
+
+* `emweb`
+
 ## Usage
 
 ### Installation
