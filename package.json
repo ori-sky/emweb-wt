@@ -1,6 +1,6 @@
 {
   "name": "emweb-wt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "emweb-wt is a module for emweb which adds support for Web Templates.",
   "author": {
     "name": "Shockk",
