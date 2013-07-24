@@ -1,0 +1,33 @@
+{
+  "name": "emweb-wt",
+  "version": "0.1.0",
+  "description": "emweb-wt is a module for emweb which adds support for Web Templates.",
+  "author": {
+    "name": "Shockk",
+    "email": "shokku.ra@gmail.com",
+    "url": "https://github.com/ShockkPony/"
+  },
+  "contributors": [
+    {
+      "name": "Shockk",
+      "email": "shokku.ra@gmail.com",
+      "url": "https://github.com/ShockkPony/"
+    }
+  ],
+  "keywords": [
+    "emweb-wt",
+    "templates",
+    "web",
+    "emweb",
+    "module"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShockkPony/emweb-wt.git"
+  },
+  "dependencies": {
+    "emweb": "0.1.x"
+  },
+  "license": "BSD",
+  "main": "index"
+}
