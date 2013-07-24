@@ -25,9 +25,5 @@
     "type": "git",
     "url": "https://github.com/ShockkPony/emweb-wt.git"
   },
-  "optionalDependencies": {
-    "emweb": "~0.1.5"
-  },
-  "license": "BSD",
   "main": "index"
 }
