@@ -1,10 +1,10 @@
 # emweb-wt
 
-emweb-wt is a module for emweb which adds support for Web Templates.
+emweb-wt is a module for `emweb` which adds support for Web Templates.
 
 ## Dependencies
 
-* `emweb`
+* `lexxy`
 
 ## Usage
 
