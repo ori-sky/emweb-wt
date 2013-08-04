@@ -32,5 +32,8 @@
   "main": "index",
   "engines": {
     "node": ">=0.8"
+  },
+  "dependencies": {
+    "lexxy": "0.2.x"
   }
 }
