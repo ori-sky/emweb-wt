@@ -1,1 +1,1 @@
-module.exports = require('./emweb-wt.js');
+module.exports = require('./lib/emweb-wt.js');

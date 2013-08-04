@@ -16,15 +16,21 @@
   ],
   "keywords": [
     "emweb-wt",
-    "templates",
-    "web",
+    "wt",
     "emweb",
-    "module"
+    "module",
+    "web",
+    "templates",
+    "templating",
+    "placeholder"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ShockkPony/emweb-wt.git"
   },
   "license": "BSD",
-  "main": "index"
+  "main": "index",
+  "engines": {
+    "node": ">=0.8"
+  }
 }
